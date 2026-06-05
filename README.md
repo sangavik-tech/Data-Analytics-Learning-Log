@@ -13,5 +13,7 @@ Day 2: Filtering with WHERE
 
 * [Day 5: Filtering Groups with HAVING](./Day-5-Filtering-Groups.sql)
 
+* [Day 6: Synthesis Assignment](./Day-6-Synthesis.sql)
+
 Current Projects
 (Empty for now—we will fill this in month 2!)
