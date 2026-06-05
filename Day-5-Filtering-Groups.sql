@@ -13,3 +13,4 @@ ORDER BY song_count DESC;
 -- 1. WHERE filters individual rows (e.g., year = 2012).
 -- 2. HAVING filters aggregated results (e.g., song_count > 5).
 -- 3. The order matters: SELECT -> FROM -> GROUP BY -> HAVING -> ORDER BY.
+-- 4.  If you are filtering the raw data, use WHERE. If you are filtering the math (the aggregation), use HAVING.
