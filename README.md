@@ -5,8 +5,8 @@ Welcome to my progress log. Here I document my transition from Electronics Engin
 Lessons Learned
 Day 1: Basic SELECT Statements
 
-* [Day 2: Filtering with WHERE](./Day-2-Filtering with WHERE.sql)
-* [Day 2: Filtering with WHERE](./Day-2-Filtering with WHERE.sql)
+Day 2: Filtering with WHERE
+
 * [Day 3: Aggregate Functions](./Day-3-Aggregates.sql)
 
 Current Projects
