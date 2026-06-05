@@ -1,1 +1,1 @@
-# Data-Analytics-Learning-Log
+I am an Electronics Engineer pivoting into Data Analytics. This repository documents my journey, the SQL/Python challenges I solve daily, and the projects I am building to bridge my domain knowledge with AI-integrated data analysis.
