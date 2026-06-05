@@ -5,7 +5,8 @@ Welcome to my progress log. Here I document my transition from Electronics Engin
 Lessons Learned
 Day 1: Basic SELECT Statements
 
-Day 2: Filtering with WHERE (Coming Soon)
+Day 2: Filtering with WHERE 
+
 
 Current Projects
 (Empty for now—we will fill this in month 2!)
