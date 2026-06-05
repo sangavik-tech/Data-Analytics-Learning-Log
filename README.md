@@ -9,5 +9,7 @@ Day 2: Filtering with WHERE
 
 * [Day 3: Aggregate Functions](./Day-3-Aggregates.sql)
 
+* [Day 4: Grouping Data with GROUP BY](./Day-4-Group-By.sql)
+
 Current Projects
 (Empty for now—we will fill this in month 2!)
