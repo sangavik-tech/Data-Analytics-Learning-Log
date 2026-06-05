@@ -6,7 +6,7 @@ Lessons Learned
 Day 1: Basic SELECT Statements
 
 Day 2: Filtering with WHERE 
-
+* [Day 3: Aggregate Functions](./Day-3-Aggregates.sql)
 
 Current Projects
 (Empty for now—we will fill this in month 2!)
