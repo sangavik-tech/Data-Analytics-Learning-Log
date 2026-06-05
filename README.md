@@ -11,5 +11,7 @@ Day 2: Filtering with WHERE
 
 * [Day 4: Grouping Data with GROUP BY](./Day-4-Group-By.sql)
 
+* [Day 5: Filtering Groups with HAVING](./Day-5-Filtering-Groups.sql)
+
 Current Projects
 (Empty for now—we will fill this in month 2!)
