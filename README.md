@@ -15,5 +15,7 @@ Day 2: Filtering with WHERE
 
 * [Day 6: Synthesis Assignment](./Day-6-Synthesis.sql)
 
+* [Day 7: Joining Tables](./Day-7-Joins.sql)
+
 Current Projects
 (Empty for now—we will fill this in month 2!)
